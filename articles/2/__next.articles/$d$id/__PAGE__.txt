@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+2:I[97367,["/zhezha/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"p-20 text-center","children":"Статья не найдена"}],[["$","script","script-0",{"src":"/_next/static/chunks/043~wapl9j3nb.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0-hlx5q8zrgz7.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xnxONPKlD8wPhzKFG_mSy"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"p-20 text-center","children":"Статья не найдена"}],[["$","script","script-0",{"src":"/zhezha/_next/static/chunks/043~wapl9j3nb.js","async":true}],["$","script","script-1",{"src":"/zhezha/_next/static/chunks/0-hlx5q8zrgz7.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"F7FU_piErZ5Ff6ZuTyBq0"}
 4:null
