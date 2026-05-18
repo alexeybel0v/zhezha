@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/zhezha/_next/static/chunks/01xlw8hd842-c.js","/zhezha/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white pt-32 px-6 flex flex-col items-center justify-center","children":[["$","h1",null,{"className":"text-4xl font-display font-black text-primary","children":"Статьи"}],["$","p",null,{"className":"text-dark-muted mt-4 font-sans text-center max-w-md","children":"Раздел находится в разработке и скоро здесь появятся полезные материалы."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NZnHFdTnKwC5cahm-36WS"}
+4:null
